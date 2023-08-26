@@ -4,12 +4,14 @@ title: Evan Liang | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://Evan-Liang808.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/template"
+baseurl: ""
 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
 techfolio-theme: default.css
+bio-page-title: Resume
 ## Specify the formatting for triple backquote code sections.
+bio-theme: bio/resume.html
 rouge-theme: github.css
 
 # DON'T CHANGE THE FOLLOWING (unless you know what you're doing)
