@@ -11,6 +11,7 @@
     "profiles": [
       { "network": "github", "username": "Evan-Liang808", "url": "Evan-Liang808.github.io" },
       { "network": "linkedin", "username": "Evan Liang", "url": "www.linkedin.com/in/evan-liang1" },
+      { "network": "twitter", "username": "Evan Liang", "url": "" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
