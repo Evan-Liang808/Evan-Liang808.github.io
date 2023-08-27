@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "Evan-Liang808", "url": "Evan-Liang808.github.io" },
       { "network": "linkedin", "username": "Evan Liang", "url": "www.linkedin.com/in/evan-liang1" },
-      { "network": "twitter", "username": "Evan Liang", "url": "" },
+      { "network": "twitter", "username": "Evan Liang", "url": "http://twitter.com/Evanliang" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
@@ -37,7 +37,7 @@
        "institution": "University of Hawaii, Honolulu, HI",
       "area": "Management Information Systems (expected Spring, 2025)",
       "studyType": "B.A.",
-      "startDate": "2017-08-21",
+      "startDate": "2017-08-01",
       "endDate": "Present",
       "courses": [
       ]
