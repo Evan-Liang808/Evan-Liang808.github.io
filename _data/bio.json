@@ -6,19 +6,18 @@
     "email": "liange@hawaii.edu",
     "phone": "",
     "website": "Evan-Liang808.github.io",
-    "summary": "I am studying for a B.A. in Management Information Systems at the University of Hawaii. My expected graduation is Spring 2025
+    "summary": "I am pursuing a B.A. in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2025.
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "github", "username": "Evan-Liang808", "url": "Evan-Liang808.github.io" },
+      { "network": "linkedin", "username": "Evan Liang", "url": "www.linkedin.com/in/evan-liang1" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "AI" },
+    { "name": "Sports" },
+    { "name": "Cars" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
@@ -35,9 +34,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2017-08-21",
       "endDate": "Present",
       "courses": [
       ]
