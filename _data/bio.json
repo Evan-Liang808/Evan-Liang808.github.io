@@ -6,13 +6,13 @@
     "email": "liange@hawaii.edu",
     "phone": "",
     "website": "Evan-Liang808.github.io",
-    "summary": "I am pursuing a B.A. in Management Information Systems at the University of Hawaii. I expect to graduate in the Spring of 2025"
+    "summary": "I am pursuing a B.A. in Management Information Systems at the University of Hawaii. I expect to graduate in the Spring of 2025",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Evan-Liang808", "url": "Evan-Liang808.github.io" },
       { "network": "linkedin", "username": "Evan Liang", "url": "www.linkedin.com/in/evan-liang1" },
       { "network": "twitter", "username": "Evan Liang", "url": "http://twitter.com/Evanliang" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" },
     ]
   },
   "interests": [
