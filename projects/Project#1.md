@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: MIS logo.jpg
+image: img/Project#1/MIS logo.jpg
 title: "Project #1"
 date: 2023
 published: true
