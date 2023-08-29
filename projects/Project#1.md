@@ -4,7 +4,7 @@ type: project
 image: img/MISlogo.jpg
 title: "Project #1"
 date: 2023
-published: true
+published: false
 labels:
   - Robotics
   - Arduino
