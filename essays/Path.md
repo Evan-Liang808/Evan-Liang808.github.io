@@ -6,7 +6,9 @@ title: "Choosing my path"
 date: 2016-02-06
 published: true
 labels:
-  - Engineering
+  - MIS
+  - Technology
+  - Business
 ---
 
 <img width="" class="" src=".">
