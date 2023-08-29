@@ -7,6 +7,8 @@ date: 2016-02-06
 published: true
 labels:
   - MIS
+  - Technology
+  - Business
 ---
 
 <img width="" class="" src=".">
