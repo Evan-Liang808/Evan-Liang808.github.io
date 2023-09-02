@@ -12,47 +12,47 @@
       { "network": "github", "username": "Evan-Liang808", "url": "Evan-Liang808.github.io" },
       { "network": "linkedin", "username": "Evan Liang", "url": "www.linkedin.com/in/evan-liang1" },
     ]
-  },
-  "interests": [
+},
+   "interests": [
     { "name": "AI" },
     { "name": "Sports" },
     { "name": "Cars" },
     { "name": "Music" },
     { "name": "Hiking" },
     { "name": "Travel" }
-  ],
+],
   "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "HTML", "Css" ]
-    },
-    {
-      "name": "Softwares",
-      "keywords": [ "Microsoft Office", "Google Platforms" ]
-    }
-  ],
+  {
+     "name": "Languages and Frameworks",
+    "keywords": [ "HTML", "Css" ]
+  },
+  {
+    "name": "Softwares",
+    "keywords": [ "Microsoft Office", "Google Platforms" ]
+  }
+],
   "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2025)",
-      "studyType": "B.A.",
-      "startDate": "2017-08-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
+  {
+    "institution": "University of Hawaii, Honolulu, HI",
+    "area": "Management Information Systems (expected Spring, 2025)",
+    "studyType": "B.A.",      
+    "startDate": "2017-08-01",
+    "endDate": "Present",
+    "courses": [
+    ]
+  }
+],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+   {
+     "company": "UH Manoa Board of Publications",
+    "position": "Web Developer",
+    "website": "",
+    "startDate": "2015-08-01",    
+    "endDate": "Present",
+    "summary": "Head of onlne presence for Ka Leo",
+    "highlights": [
+      "Maintain, update, and oversee official college newspaper website",
+      "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
