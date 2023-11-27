@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Evan Liang",
+    "label": "Undergraduate Student at Shidler",
+    "picture": "https://GitHub.com/evan-liang808.png",
+    "email": "liange@hawaii.edu",
+    "phone": "",
+    "website": "Evan-Liang808.github.io",
+    "summary": "I am pursuing a B.B.A. in Management Information Systems at the University of Hawaii. I am expected to graduate in the Spring of 2025",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Evan-Liang808", "url": "Evan-Liang808.github.io" },
+      { "network": "linkedin", "username": "Evan Liang", "url": "www.linkedin.com/in/evan-liang1" }
+    ]
+},
+   "interests": [
+    { "name": "AI" },
+    { "name": "Sports" },
+    { "name": "Cars" },
+    { "name": "Music" },
+    { "name": "Hiking" },
+    { "name": "Travel" }
+],
+  "skills": [
+  {
+     "name": "Languages and Frameworks",
+    "keywords": [ "HTML", "Css" ]
+  },
+  {
+    "name": "Softwares",
+    "keywords": [ "Microsoft Office", "Google Platforms" ]
+  }
+],
+  "education": [
+  {
+    "institution": "University of Hawaii, Honolulu, HI",
+    "area": "Management Information Systems (expected Spring, 2025)",
+    "studyType": "B.A.",      
+    "startDate": "2017-08-01",
+    "endDate": "Present",
+    "courses": [
+    ]
+  }
+],
+  "work": [
+   {
+     "company": "UH Manoa Board of Publications",
+    "position": "Web Developer",
+    "website": "",
+    "startDate": "2015-08-01",    
+    "endDate": "2023-08-29",
+    "summary": "Head of onlne presence for Ka Leo",
+    "highlights": [
+      "Maintain, update, and oversee official college newspaper website",
+      "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Business Executive Society of Tomorrow",
+      "website": "Bestuhm.org",
+      "position": "General Member",
+      "startDate": "2023-02",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Network with over 50 different professionals"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
